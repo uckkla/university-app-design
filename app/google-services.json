@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631435422961",
+    "project_id": "cs2pj20-66eec",
+    "storage_bucket": "cs2pj20-66eec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631435422961:android:2c999a657dffd22ee28d50",
+        "android_client_info": {
+          "package_name": "com.example.cs2pj20springcoursework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6CuecKZGjC3OBHT4_q5VBLi99pAeMXZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

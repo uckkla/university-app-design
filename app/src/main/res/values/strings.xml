@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CS2PJ20 Spring Coursework</string>
+    <string name="styled_text_signup">Don\'t have an account? <font color="#0000FF">Register now</font></string>
+    <string name="styled_text_login">Have an account? <font color="#0000FF">Login now</font></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
